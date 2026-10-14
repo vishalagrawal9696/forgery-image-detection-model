@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Forgery Image Detection App
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -172,3 +173,6 @@ foreign image/
 
 ## 📜 License
 This project is licensed under the MIT License.
+=======
+# forgery-image-detection-model
+>>>>>>> 63204a1b1b9dcf5766cb8574f7ff26a395a2cf65
